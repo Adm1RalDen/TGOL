@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TGOL/static/css/main.3c37ab5d.chunk.css",
+    "main.js": "/TGOL/static/js/main.22747e24.chunk.js",
+    "main.js.map": "/TGOL/static/js/main.22747e24.chunk.js.map",
+    "runtime~main.js": "/TGOL/static/js/runtime~main.7295ba59.js",
+    "runtime~main.js.map": "/TGOL/static/js/runtime~main.7295ba59.js.map",
+    "static/css/2.33bbdc9a.chunk.css": "/TGOL/static/css/2.33bbdc9a.chunk.css",
+    "static/js/2.eb713c23.chunk.js": "/TGOL/static/js/2.eb713c23.chunk.js",
+    "static/js/2.eb713c23.chunk.js.map": "/TGOL/static/js/2.eb713c23.chunk.js.map",
+    "index.html": "/TGOL/index.html",
+    "precache-manifest.08bfa0f9d6819ac4d6c3dc1724c91843.js": "/TGOL/precache-manifest.08bfa0f9d6819ac4d6c3dc1724c91843.js",
+    "service-worker.js": "/TGOL/service-worker.js",
+    "static/css/2.33bbdc9a.chunk.css.map": "/TGOL/static/css/2.33bbdc9a.chunk.css.map",
+    "static/css/main.3c37ab5d.chunk.css.map": "/TGOL/static/css/main.3c37ab5d.chunk.css.map"
+  }
+}
