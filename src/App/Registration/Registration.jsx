@@ -26,7 +26,6 @@ import {
           }
           else{
             function isAlive(val){
-              console.log(val.email + " + " + values.email);
               return val.email === values.email
             }
             if(!Reg.some(isAlive))
@@ -103,7 +102,8 @@ import {
         },
       };
       return (
-        <Form {...formItemLayout} onSubmit={this.handleSubmit}>
+        <div className='content'>
+            <Form {...formItemLayout} onSubmit={this.handleSubmit}>
           <Form.Item label="E-mail">
             {getFieldDecorator('email', {
               rules: [
@@ -171,6 +171,8 @@ import {
             
           </Form.Item>
         </Form>
+        </div>
+        
       );
     }
   }

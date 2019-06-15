@@ -10,12 +10,10 @@ class App extends React.Component {
   render() {      
     return (
       <Router history={createBrowserHistory()}>
-          <div className='content'>
             <Route path="/login" exact component={Login} />
             <Route path="/plays" exact component={Body} />
             <Route path="/" exact component={Login} />
             <Route path="/registration" exact component={Registration} />
-          </div>
       </Router>
 
     );
