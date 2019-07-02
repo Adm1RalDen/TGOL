@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/TGOL/static/css/main.61daeac7.chunk.css",
-    "main.js": "/TGOL/static/js/main.a70cb1e3.chunk.js",
-    "main.js.map": "/TGOL/static/js/main.a70cb1e3.chunk.js.map",
+    "main.css": "/TGOL/static/css/main.02e1365b.chunk.css",
+    "main.js": "/TGOL/static/js/main.9aa1155e.chunk.js",
+    "main.js.map": "/TGOL/static/js/main.9aa1155e.chunk.js.map",
     "runtime~main.js": "/TGOL/static/js/runtime~main.7295ba59.js",
     "runtime~main.js.map": "/TGOL/static/js/runtime~main.7295ba59.js.map",
     "static/css/2.33bbdc9a.chunk.css": "/TGOL/static/css/2.33bbdc9a.chunk.css",
-    "static/js/2.a98a31e1.chunk.js": "/TGOL/static/js/2.a98a31e1.chunk.js",
-    "static/js/2.a98a31e1.chunk.js.map": "/TGOL/static/js/2.a98a31e1.chunk.js.map",
+    "static/js/2.14154d2a.chunk.js": "/TGOL/static/js/2.14154d2a.chunk.js",
+    "static/js/2.14154d2a.chunk.js.map": "/TGOL/static/js/2.14154d2a.chunk.js.map",
     "index.html": "/TGOL/index.html",
-    "precache-manifest.2fb713be48ab527f36c79943a02c66a7.js": "/TGOL/precache-manifest.2fb713be48ab527f36c79943a02c66a7.js",
+    "precache-manifest.3b8c22e82be5fcaf6ef76fcbd539646b.js": "/TGOL/precache-manifest.3b8c22e82be5fcaf6ef76fcbd539646b.js",
     "service-worker.js": "/TGOL/service-worker.js",
     "static/css/2.33bbdc9a.chunk.css.map": "/TGOL/static/css/2.33bbdc9a.chunk.css.map",
-    "static/css/main.61daeac7.chunk.css.map": "/TGOL/static/css/main.61daeac7.chunk.css.map"
+    "static/css/main.02e1365b.chunk.css.map": "/TGOL/static/css/main.02e1365b.chunk.css.map"
   }
 }
